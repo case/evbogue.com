@@ -21,11 +21,9 @@ I'm the author, and you're bookseller, and the marketing department. With this n
 
 If you want to be a part of this, I ask that you email me. This way we can connect in brief before you start doing the work and getting paid.
 
-Tell me:
+Fill out the form below and hit submit.
 
-1. Your name
-2. Your website
-3. Your brief marketing plan
+<iframe height="417" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://evbogue.wufoo.com/embed/z7x3k7/"><a href="http://evbogue.wufoo.com/forms/z7x3k7/">Fill out my Wufoo form!</a></iframe>
 
 I'll email you back with the link to the kickback program within 24 hours.
 
