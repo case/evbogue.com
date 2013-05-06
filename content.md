@@ -1,5 +1,6 @@
 ### Stream
 
++ May 6 2013 | Sell a copy of [Deploy Node](http://deployno.de), you get $18.50. [Kickbacks](/kickbacks) are now an option
 + May 5 2013 | I'm now [@venportman](http://twitter.com/venportman) on Twittah
 + May 3 2013 | Wrote [about support for hard ass work](/writing)
 + April 30 2013 | Add section to [Deploy Node](http://deployno.de/) on deploying [Bitters](http://bitters.evbogue.com)
