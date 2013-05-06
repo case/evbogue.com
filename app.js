@@ -36,6 +36,7 @@ app.get('/writing', routes.writing);
 app.get('/node', routes.node);
 app.get('/nodejs', routes.node)
 app.get('/arch', routes.arch)
+app.get('/kickbacks', routes.kickbacks)
 app.get('*', routes.index);
 
 

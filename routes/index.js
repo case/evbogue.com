@@ -26,3 +26,7 @@ exports.node = function(req, res){
 exports.arch = function(req, res){
   res.render('arch', { title: 'Arch Linux | Ev Bogue'});
 };
+
+exports.kickbacks = function(req, res){
+  res.render('kickbacks', { title: 'Kickbacks | Ev Bogue'});
+};
