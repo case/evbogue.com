@@ -1,4 +1,5 @@
-### About Ev Bogue
+About Ev Bogue
+==============
 
 I'm a technical writer and web developer specializing in deploying Node.js. Because Node.js is awesome. 
 
