@@ -1,6 +1,6 @@
 ### Stream
 
-+ May 8 2013 | I'm [Ven Portman on Twitter](mailto:ven@venportman.com). 
++ May 8 2013 | I'm [Ven Portman on Twitter](http://twitter.com/venportman). 
 
 ***
 
