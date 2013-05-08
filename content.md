@@ -1,5 +1,6 @@
 ### Stream
 
++ May 8 2013 | Wrote about [giving, Gittip, and Yoga to the People](/gittip)'s business model
 + May 6 2013 | Sell a copy of [Deploy Node](http://deployno.de), you get $18.50. [Kickbacks](/kickbacks) are now an option
 + May 5 2013 | I'm now [@venportman](http://twitter.com/venportman) on Twittah
 + May 3 2013 | Wrote [about support for hard ass work](/writing)
