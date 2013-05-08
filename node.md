@@ -32,6 +32,10 @@ Open your favorite text editor. For me, that's [Sublime Text 2](http://www.subli
 
 	console.log('Your Node.js server is running at http://localhost:3000/');
 
+Save this file as app.js. Find the file with your terminal and type
+
+	$ node app.js
+
 Visit [localhost:3000](http://localhost:3000) to see your Node.js server in realtime.
 
 ### Other resources
