@@ -30,3 +30,7 @@ exports.arch = function(req, res){
 exports.kickbacks = function(req, res){
   res.render('kickbacks', { title: 'Kickbacks | Ev Bogue'});
 };
+
+exports.gittip = function(req, res){
+  res.render('gittip', { title: 'Gittip | Ev Bogue'});
+};

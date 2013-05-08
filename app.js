@@ -34,9 +34,10 @@ app.get('/about', routes.about);
 app.get('/oldshit', routes.oldshit);
 app.get('/writing', routes.writing);
 app.get('/node', routes.node);
-app.get('/nodejs', routes.node)
-app.get('/arch', routes.arch)
-app.get('/kickbacks', routes.kickbacks)
+app.get('/nodejs', routes.node);
+app.get('/arch', routes.arch);
+app.get('/kickbacks', routes.kickbacks);
+app.get('/gittip', routes.gittip);
 app.get('*', routes.index);
 
 
