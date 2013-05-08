@@ -25,7 +25,7 @@ Recently, I figured I have to find some way of compromising in order to keep doi
 
 So I got in touch with the people I know from that world. It's been awhile, but they're still willing to level with me. I hear they're doing well. They're thriving even. Still. Because when people spread the word about your product, and they're getting paid for it, word travels and copies fly off the shelves.
 
-But affiliate marketing gives your soul a karmic fraking up the ass. It's hard in a different way. Because you don't know if people are going to tell the honest truth about your products. When you're getting paid 50% to rep a product, you're going to say anything to sell copies if you need to do it to pay rent. Desperation can say some pretty funny things when affiliate marketing money is involed.
+But affiliate marketing gives your soul a karmic fraking up the ass. It's hard in a different way. Because you don't know if people are going to tell the honest truth about your products. When you're getting paid 50% to rep a product, you're going to say anything to sell copies if you need to do it to pay rent. Desperation can say some pretty funny things when affiliate marketing money is involved.
 
 Now, I'm not desperate right now. 
 
