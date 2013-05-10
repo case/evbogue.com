@@ -27,10 +27,6 @@ exports.arch = function(req, res){
   res.render('arch', { title: 'Arch Linux | Ev Bogue'});
 };
 
-exports.kickbacks = function(req, res){
-  res.render('kickbacks', { title: 'Kickbacks | Ev Bogue'});
-};
-
 exports.gittip = function(req, res){
   res.render('gittip', { title: 'Gittip | Ev Bogue'});
 };
