@@ -1,5 +1,7 @@
 ### Stream
 
++ May 11 2013 | Jared Chapman deployed his Node.js website using Bitters! [jaredcc.co](http://jaredcc.co/)
++ May 10 2013 | Did an Interview w/ [Gwen Bell](http://gwenbell.com) and Chad Whitacre about [Gittip](http://gittip.com)
 + May 8 2013 | I'm [Ven Portman on Twitter](http://twitter.com/venportman). 
 
 ***
