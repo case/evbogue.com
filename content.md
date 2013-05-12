@@ -9,11 +9,11 @@
 
 ### Deploy Node
 
-<a href="http://deployno.de"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [Deploy Node](http://deployno.de), will teach you the technical skills you need to deploy. 
+<a href="http://deploy.evbogue.com"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [Deploy Node](http://deploy.evbogue.com), will teach you the technical skills you need to deploy. 
 
 Step-by-step, learn how to build your own simple-as-possible realtime website with Node.js, Express, Jade, Stylus.
 
-Declare indepedence from those who will control your Internet experience, deploy. [Learn more](http://deployno.de) 
+Declare indepedence from those who will control your Internet experience, deploy. [Learn more](http://deploy.evbogue.com) 
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
 
