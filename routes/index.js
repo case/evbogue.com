@@ -30,3 +30,7 @@ exports.arch = function(req, res){
 exports.gittip = function(req, res){
   res.render('gittip', { title: 'Gittip | Ev Bogue'});
 };
+
+exports.haters = function(req, res){
+  res.render('haters', { title: 'Haters | Ev Bogue'});
+};

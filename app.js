@@ -37,6 +37,7 @@ app.get('/node', routes.node);
 app.get('/nodejs', routes.node);
 app.get('/arch', routes.arch);
 app.get('/gittip', routes.gittip);
+app.get('/haters', routes.haters);
 app.get('*', routes.index);
 
 

@@ -1,5 +1,6 @@
 ### Stream
 
++ May 12 2013 | I now have a [haters page](/haters)
 + May 12 2013 | Nathan Chapman deployed his Node.js website using Bitters too! [nathanjc.com](http://www.nathanjc.com/)
 + May 11 2013 | Jared Chapman deployed his Node.js website using Bitters! [jaredcc.co](http://jaredcc.co/)
 + May 10 2013 | Did [an Interview](http://www.youtube.com/watch?v=VinWkC4JMMs) with [Gwen Bell](http://gwenbell.com) and [Chad Whitacre](http://whit537.org/) about [Gittip](http://gittip.com) 
