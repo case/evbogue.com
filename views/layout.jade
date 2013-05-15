@@ -10,7 +10,7 @@ html
     script(type='text/javascript', src='/javascripts/highlight.min.js')
     link(rel='stylesheet', href='/stylesheets/monokai_sublime.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
-    script(src='/javascripts/hummingbird.js')
+    
     include analytics.html
 
   body
@@ -34,6 +34,3 @@ html
         include sidebar.jade
       .ten.columns.offset-by-one
         block content
-
-    script
-      HummingbirdTracker.track();
