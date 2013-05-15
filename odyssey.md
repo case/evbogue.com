@@ -1,5 +1,5 @@
 
-<img src="/images/theodyssey.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 40%;" />
+<a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><img src="/images/theodyssey.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 40%;" /></a>
 
 The Odyssey
 ===========
@@ -76,7 +76,7 @@ Original price: $37
 
 ***
 
-In one final act of untethering Ev Bogue decided to untether from his given name. He made up a name in February 2012, and over the course of 16 months he gradually began to bring his new pseudononymous avatar online.
+In one final act of untethering Ev Bogue decided to untether from his given name. He made up a name in February 2012, and over the course of 16 months he gradually began to bring his new pseudonymous avatar online.
 
 So the real question is, who is Ev Bogue? Is Ev Bogue also Ven Portman? Or was Ven Portman deep within his core always Ev Bogue?
 
@@ -84,7 +84,7 @@ What it is in a name anyway?
 
 As you dig deeper into The Odyssey, the collected works of Ev Bogue, you will find yourself falling deeper into this question.
 
-<img src="/images/theodyssey.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 40%;" />
+<a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><img src="/images/theodyssey.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 40%;" /></a>
 
 
 Together, all of these offerings would have been priced at $131. Now, they're packed together at the reduced price of only $97.
