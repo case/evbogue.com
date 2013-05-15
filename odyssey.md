@@ -38,7 +38,6 @@ Ev Bogue's first ebook about how to git rid of all of your stuff in order to enj
 
 Original price: $17
 
-
 ***
 
 <img src="/images/minimalistbusiness.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 125px;" />
@@ -51,9 +50,7 @@ Ev Bogue's second ebook about how to live and work from anywhere. In this packag
 
 Original price: $47
 
-
 ***
-
 
 <img src="/images/augmentedhumanity.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 125px;" />
 
