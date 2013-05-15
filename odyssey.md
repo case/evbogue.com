@@ -58,7 +58,7 @@ Original price: $47
 
 #### By Ev Bogue | February 2011 | PDF
 
-Following his success as an location independent internet superstar, Ev Bogue began to see the world in a strange new light. Unable to distinguish between reality and The Internet, he began to see cyborgs living amongst humans. In his a mind, there was suddenly a strong divide between those people who'd learned to integrate technology into their lives, and those who had not. Crazy or brilliant? You decide.
+Following his success as an location independent internet superstar, Ev Bogue began to see the world in a strange new light. Unable to distinguish between reality and The Internet, he began to see cyborgs living amongst humans. In his mind, there was suddenly a strong divide between those people who'd learned to integrate technology into their lives, and those who had not. Crazy or brilliant? You decide.
 
 Original price: $30
 
