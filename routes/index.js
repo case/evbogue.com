@@ -34,3 +34,7 @@ exports.gittip = function(req, res){
 exports.haters = function(req, res){
   res.render('haters', { title: 'Haters | Ev Bogue'});
 };
+
+exports.odyssey = function(req, res){
+  res.render('odyssey', { title: 'The Odyssey | Ev Bogue'});
+};
