@@ -96,5 +96,3 @@ May 2013
 ### <del style="color: #999;">$131</del> $97
 
 <a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><button class="button">Buy Now</button></a>
-
-Sales page conversion rate: 98%
