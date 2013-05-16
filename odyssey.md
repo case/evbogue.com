@@ -4,7 +4,7 @@
 The Odyssey
 ===========
 
-#### The collected works of Ev Bogue
+#### Collected works of Ev Bogue
 
 ### <del style="color: #999;">$131</del> $97
 
@@ -97,4 +97,4 @@ May 2013
 
 <a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><button class="button">Buy Now</button></a>
 
-
+Sales page conversion rate: 98%
