@@ -21,6 +21,8 @@ Because you all know, I won't just sit on my ass and watch television. And if I 
 src="https://www.gittip.com/assets/widgets/0002.js">
 </script>
 
+***
+
 ### Coding to the people
 
 As many of you know, I'm a huge supporter of [Yoga to the People](http://yogatothepeople.com). I've gone through their yoga teacher training program. I've taken classes there since 2006.
