@@ -45,7 +45,7 @@ After my brief stint fucking minimalism, I realized I was living in opposition t
 
 ### Cyborg discrimination
 
-In early 2011, after I quit the minimalism thing, I wrote an ebook called Augmented Humanity. (Buy it with my [old shit](/oldshit))
+In early 2011, after I quit the minimalism thing, I wrote an ebook called Augmented Humanity. (Buy it in [The Odyssey](/odyssey))
 
 I'd gotten really into the intersection of humanity and technology, and the effects it had on people. When people pick up new tech, it changes them. A person before they get on the Internet is different than after. A person before they use a Zipcar is different than after.
 
@@ -89,7 +89,7 @@ I ran out of money while I was doing exactly what I wanted to do with my life, t
 
 Most of the 'Ev Bogue scam' stuff started during this time. I'm not sure why, because I was making nearly zero dollars. How can you scam people without taking their money? 
 
-I will level with you again. You have to be an idiot to call me a scammer. I've always used PayPal or Amazon Payments. Any person who has ever bought my [new](http://deploy.evbogue.com/) or [old shit](/oldshit) has had, and will have, the opportunity to get in touch with me or a person at Amazon or PayPal if they feel they didn't get what they paid for. 
+I will level with you again. You have to be an idiot to call me a scammer. I've always used PayPal or Amazon Payments. Any person who has ever bought [Deploy Node](http://deploy.evbogue.com/) or [The Odyssey](/odyssey) has had, and will have, the opportunity to get in touch with me or a person at Amazon or PayPal if they feel they didn't get what they paid for. 
 
 As far as I can tell, haters just throw around this word because it gets them attention.
 
@@ -103,7 +103,7 @@ Learning to [deploy Node.js](http://deploy.evbogue.com/) is probably one of the 
 
 ### Finding peace in a sea of hatred
 
-If you want to read the old projects that many people have loved to hate over the years, you're invited to [buy my old shit](/oldshit).
+If you want to read the old projects that many people have loved to hate over the years, you're invited to [buy The Odyssey](/odyssey).
 
 The way I see it, if I wasn't doing anything important, people wouldn't hate me. And if you want to do anything important, people will hate you. If you can't learn how to deal with haters, you will not do anything with your life. I've learned to deal with haters in the best way possible. 
 
