@@ -3,7 +3,7 @@ Writing
 
 This is the page where I write things. The pieces don't have dates. I delete pieces when they're irrelevant. Read them while you got them. 
 
-If you want to read longer stuff, you're invited to buy [Deploy Node](http://deployno.de) or my [old shit](/oldshit).
+If you want to read longer stuff, you're invited to buy [Deploy Node](http://deployno.de) or [The Odyssey](/odyssey).
 
 Got questions? [ev@evbogue.com](mailto:ev@evbogue.com)
 
