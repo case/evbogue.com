@@ -11,6 +11,49 @@ Sign up receive emails from me if you want notifications.
 
 <form action="https://tinyletter.com/evbogue" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/evbogue', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" class="medium" name="email" id="tlemail" placeholder="Letters to your inbox" /><input type="hidden" value="1" name="embed" /><input type="submit" value="Sign up" class="button"/></form>
 
+### Throw out your phone
+
+One of the befuddling trends of 2013 is many people are bringing their phones on the mat with them. 
+
+I've noticed this at almost every class at Yoga to the People I've been to so far. People come into the room, roll out their mats, sit on their mats, and fiddle with them until the class starts. They even leave their phones on while they're practing!
+
+If you do this, you might not know why you're doing it. Allow me to enlighten you:
+
+You're afraid to be offline. 
+
+You're afraid if you leave your phone off you'll miss some very important moment in your life. 
+
+Meanwhile, you're missing your whole life because you have your phone in front of your face all day.
+
+And I'm the asshole who's telling you about this. Why? Because I think you should throw out your phone. Why? Because it's distracting you from your life. Why? Because you can't even put it away and turn it off while you're on a yoga mat. Why? Because you're afraid you'll miss out on some precious comment/like/retweet or whatever.
+
+Trust me, all of these messages will be there when you get back off the mat. 
+
+Let me let you in on a secret of the Internet. It is there while you aren't. If you're away from it, anything you do on there will persist. Your inbox is like a mailbox, you don't have to stand at it all day long in order to get your mail. Your website is like a billboard. You don't have to hold it up for people to read it. 
+
+You don't have to be present with the Internet all day for it to continue to work. 
+
+You do need to be present with your breath for your yoga practice to work.
+
+I'd like to suggest you try an experiment. Throw your phone away. Or sell it, if you can get money for it. 
+
+Why?
+
+1. You'll save a shit-ton of money on your phone bill. 
+2. You'll also be present for your life.
+
+But do you still exist without a phone? Yes, you do. You will continue breathing.
+
+I know, because I haven't owned a phone for a year and a half. I sold mine in the Mission in San Francisco before I started circumnavigating the globe last year. I got $360 for my iPhone back then! Crazy, because now you'd be lucky to get $50. When I came back to the states, I didn't get another phone.
+
+And you know what. The only time I've been asked for my number was when I was trying to get a Google account last week for Ven Portman. 
+
+So do you need a phone? I don't think so.
+
+And perhaps if you get rid of it, you'll be far less distracted during your yoga practice.
+
+***
+
 ### Support for Hard Ass Work
 
 > Why isn't there more support for people doing hard ass work?
@@ -64,6 +107,8 @@ If you want to support me, [send me money](https://www.paypal.com/cgi-bin/webscr
 
 But no, don't email saying 'please don't kill yourself'. It doesn't make things easier out here on the edge. 
 And no. I won't step back. You need to step up.
+
+***
 
 ### The Deep End
 
