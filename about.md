@@ -34,15 +34,13 @@ I co-built [Bitters](http://bitters.evbogue.com), a git-based real-time website 
 
 <a href="/odyssey"><img src="/images/theodyssey.jpg" width="210px" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em;"></a>
 
-I've been a writing for as long as I can remember. I deployed my first webpage to Geocities in 1997. I was twelve. I started [Livejournal](https://en.wikipedia.org/wiki/LiveJournal)ing (one of the first blogging platforms) in 1999. 
+I've been a writer for as long as I can remember. I deployed my first webpage to Geocities in 1997. I was twelve. I started [Livejournal](https://en.wikipedia.org/wiki/LiveJournal)ing (one of the first blogging platforms) in 1999. 
 
 I went to NYU (New York University) for dance, but ended up graduating with a degree in Journalism. I took the first blogging class at NYU. I was hired at [Gawker Media](http://gawker.com/) while I was still at NYU. 
 
-After school, I tried to work at 5th Ave Apple Store in Manhattan, but dropped out to pursue a career as a photo editor at [New York Magazine](http://nymag.com). I worked at Nymag for three years, then I quit to pursue career as a professional writer.
+After school, I tried to work at the 5th Ave Apple Store in Manhattan, but dropped out to pursue a career as a photo editor at [New York Magazine](http://nymag.com). I worked at Nymag for three years, then I quit to pursue career as a professional writer.
 
-The next three years, I refer to as [The Odyssey](/odyssey). During I wrote four ebooks, as I traveled back and forth from Portland, Brooklyn, Oakland, San Francisco, Boulder, Seattle, Puerto Vallarta, and back to San Francsico. Most of my [haters](/haters) sprung up during this time. Jealousy is just love and hate at the same time.
-
-The Odyssey ends as the next era begins as I'm circumnvaigating the globe through Singapore, Tokyo, and Berlin looking for the future of technology.
+I refer to the next three years as [The Odyssey](/odyssey). During that time, I wrote four ebooks as I traveled back and forth from Portland, Brooklyn, Oakland, San Francisco, Boulder, Seattle, Puerto Vallarta, and back to San Francsico. Most of my [haters](/haters) sprung up during this time. Jealousy is just love and hate at the same time.
 
 ***
 
