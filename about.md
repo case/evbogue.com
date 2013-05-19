@@ -1,29 +1,54 @@
-About Ev Bogue
-==============
+About
+=====
 
-I'm a technical writer and web developer specializing in deploying Node.js. Because Node.js is awesome. 
+I'm Ev Bogue (born Mar 1985, Chicago IL) or pseudonymous as Ven Portman (created Feb 2012, San Francisco CA). I deploy Node and live in Bed-stuy Brooklyn, New York.
 
-I live in Bed-stuy Brooklyn. I moved to New York City when I was 18. Ten years ago. I stuck around too long, then left for a bit to travel the world -- Tokyo, Berlin, Mexico and in-between. Now I'm back, and loving it. New York City is the best place on Earth. I don't make as much sense outside of New York. But here, I do the work. If you want to come here, you should. If you can't handle it, then you should leave. The same goes for my work.
+In my early life, I dropped out of kindergarten and 9th grade. This gave me some extra time to play around with computers. I'm a self-learner. I hate/question anyone with authority, and tend to rebel if you tell me what to do.
 
-I regenerate. Like The Doctor. Because the only way to survive in the modern world is to revent yourself. People who stick with one thing eventually stagnate, and aren't valuable anymore. Because what was beneficial a few years ago, isn't getting the same traction.
+I moved to New York City when I was 18, and left in 2009. Since, I lived all over the world. My favorite places I've lived are Portland, Oakland, San Francisco, Puerto Vallarta, and Japan.
 
-I believe in the distributed web. And I put my money where my mouth is. So I don't do centralized social networking. Because if you're a user, then you're being used. So I deploy Node.
+Now I'm back in New York City, because it's the most amazing place on Earth. 
 
-I have an on-going technical writing project [Deploy Node](http://deployno.de) where I document everything worth learning about Node. If you want to deploy Node, then [deployno.de](http://deployno.de) is the place to land. And bring your credit card or Bitcoins, because good shit ain't free.
+***
 
-I'm most known for owning no stuff. I still don't. Junk is junk, and it's getting in your way. Before doing the dev thing, I worked at Gawker, and then at New York Magazine. I've been featured on CBS News (for the minimalist thing).
+### Deploying
 
-I've lived in a hotel in Mexico with a panoramic view of the ocean, and I've been homeless. Because to do anything important in this world, you have to risk everything. And sometimes it works out, and other times it doesn't. Tough shit. You get back to work. But if you've never done the work, then you have no idea what I'm talking about. You're probably just scared shitless of being successful, or being homeless. Or both.
+<a href="http://deploy.evbogue.com"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em;"></a>
 
-I've smoked a pack a day, and practiced yoga three times a day. I've eaten an all meat diet, I've been a vegan. I say fuck veganism. I've never been as useless as when I was trying to eat all vegetables. Give me a burger.
+In my most recent regeneration (I regenerate, like [The Doctor](https://en.wikipedia.org/wiki/Doctor_%28Doctor_Who%29)) I'm a technical writer deploying [Node.js](/node). 
 
-The best way to reach me is via email – [ev@evbogue.com](mailto:ev@evbogue.com). But let me warn you, I will ask you to put your money where your keyboard is. If you don't have any money, then figure out how to get some. Because not having money is no excuse for not trying to earn some. Stop emailing me whining about being unemployed. Suck it up and learn some technical skills. Have your mom buy you [Deploy Node](http://deployno.de), or your boss, or if you can afford it yourself then by all means. It's only $37 for godsake. You spent that at brunch last week, unemployed or not.
+Around February 2012, it became clear the way I'd been writing in the past wasn't going to work for the future. So I created Ven Portman as my pseudonymous avatar to go out ahead of me and explore the future edge of technology. 
 
-The people who read me are willing to do the work. They're hard workers. They have technical skills. They believe in a distributed Internet. They don't let themselves be brainwashed by hugemongous megacorporations creating brain-squeezing Internet ghettos for the bottom of the barrel specimens of mankind to hang out and poke each other. 
+While I was circumnavigating the globe during 2012 (Singapore, Tokyo, Berlin), Ven Portman was wandering towards the fringes of teh Internets. What he discovered is this: [Node.js](http://nodejs.org) is the future. 
 
-The people who read me deploy. Whether it's Node, or whatever your favorite language or web server happens to be. 
+I believe in a distributed web. If we're going to break out of centralized information states, we need to deploy our own code. 
+If you feel confused, look at it like this: Ev Bogue does the writing, Ven Portman does the coding.
 
-We don't just sit around talking about shit. 
+Ev Bogue documents Ven Portman's process in [Deploy Node](/node).
 
-We hit git push origin master.
+I co-built [Bitters](http://bitters.evbogue.com), a git-based real-time website container using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and [Skeleton](http://www.getskeleton.com/). You're looking at Bitters right now.
 
+***
+
+### Writing
+
+<a href="/odyssey"><img src="/images/theodyssey.jpg" width="210px" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em;"></a>
+
+I've been a writing for as long as I can remember. I deployed my first webpage to Geocities in 1997. I was twelve. I started [Livejournal](https://en.wikipedia.org/wiki/LiveJournal)ing (one of the first blogging platforms) in 1999. 
+
+I went to NYU (New York University) for dance, but ended up graduating with a degree in Journalism. I took the first blogging class at NYU. I was hired at [Gawker Media](http://gawker.com/) while I was still at NYU. 
+
+After school, I tried to work at 5th Ave Apple Store in Manhattan, but dropped out to pursue a career as a photo editor at [New York Magazine](http://nymag.com). I worked at Nymag for three years, then I quit to pursue career as a professional writer.
+
+The next three years, I refer to as [The Odyssey](/odyssey). During I wrote four ebooks, as I traveled back and forth from Portland, Brooklyn, Oakland, San Francisco, Boulder, Seattle, Puerto Vallarta, and back to San Francsico. Most of my [haters](/haters) sprung up during this time. Jealousy is just love and hate at the same time.
+
+The Odyssey ends as the next era begins as I'm circumnvaigating the globe through Singapore, Tokyo, and Berlin looking for the future of technology.
+
+***
+
+Got questions?
+
++ Reach me as Ev Bogue | [ev@evbogue.com](mailto:ev@evbogue.com)
++ Reach me as Ven Portman | [ven@venportman.com](mailto:ven@venportman.com)
+
+I'm [Ven Portman on Twitter](http://twitter.com/venportman)
