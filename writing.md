@@ -29,28 +29,7 @@ And I'm the asshole who's telling you about this. Why? Because I think you shoul
 
 Trust me, all of these messages will be there when you get back off the mat. 
 
-Let me let you in on a secret of the Internet. It is there while you aren't. If you're away from it, anything you do on there will persist. Your inbox is like a mailbox, you don't have to stand at it all day long in order to get your mail. Your website is like a billboard. You don't have to hold it up for people to read it. 
-
-You don't have to be present with the Internet all day for it to continue to work. 
-
-You do need to be present with your breath for your yoga practice to work.
-
-I'd like to suggest you try an experiment. Throw your phone away. Or sell it, if you can get money for it. 
-
-Why?
-
-1. You'll save a shit-ton of money on your phone bill. 
-2. You'll also be present for your life.
-
-But do you still exist without a phone? Yes, you do. You will continue breathing.
-
-I know, because I haven't owned a phone for a year and a half. I sold mine in the Mission in San Francisco before I started circumnavigating the globe last year. I got $360 for my iPhone back then! Crazy, because now you'd be lucky to get $50. When I came back to the states, I didn't get another phone.
-
-And you know what. The only time I've been asked for my number was when I was trying to get a Google account last week for Ven Portman. 
-
-So do you need a phone? I don't think so.
-
-And perhaps if you get rid of it, you'll be far less distracted during your yoga practice.
+Let me let you in on a secret of the Internet. It is there while you aren't. If you're away from it, anything you do on there will persist. Your inbox is like a mailbox, you don't have to stand at it all day long in order to get your mail. 
 
 ***
 
