@@ -87,7 +87,7 @@ As you dig deeper into The Odyssey, the collected works of Ev Bogue, you will fi
 <a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><img src="/images/theodyssey.jpg" class="profile" style="float: right; margin-left: 1em; margin-bottom: 1em; width: 40%;" /></a>
 
 
-Together, all of these offerings would have been priced at $131. Now, they're packed together at the reduced price of only $97.
+Together, all of these offerings would have been priced at $131. Now, they're packaged together at the reduced price of only $97.
 
 –Ven Portman<br />
 [ven@venportman.com](mailto:ev@evbogue.com)<br />
