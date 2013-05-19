@@ -1,5 +1,6 @@
 ### Stream
 
++ May 19 2013 | Re-write [about page](/about)
 + May 16 2013 | Announcing [The Odyssey](/odyssey)
 + May 12 2013 | I now have a [haters page](/haters)
 + May 12 2013 | Nathan Chapman deployed his Node.js website using Bitters too! [nathanjc.com](http://www.nathanjc.com/)
