@@ -28,5 +28,3 @@ What you won't get...
 1. Esoteric bullshit
 
 Type your email address in the field below, and hit subscribe. You'll get a message confirming your email address.
-
-When you want to unsubscribe, just hit the unsubscribe button. 
