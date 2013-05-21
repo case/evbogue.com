@@ -38,6 +38,7 @@ app.get('/arch', routes.arch);
 app.get('/gittip', routes.gittip);
 app.get('/haters', routes.haters);
 app.get('/odyssey', routes.odyssey);
+app.get('/letters', routes.letters);
 app.get('*', routes.index);
 
 

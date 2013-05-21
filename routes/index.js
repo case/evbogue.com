@@ -34,3 +34,7 @@ exports.haters = function(req, res){
 exports.odyssey = function(req, res){
   res.render('odyssey', { title: 'The Odyssey | Ev Bogue'});
 };
+
+exports.letters = function(req, res){
+  res.render('letters', { title: 'Letters | Ev Bogue'});
+};
