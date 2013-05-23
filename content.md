@@ -40,3 +40,5 @@ Read the [introduction by Ven Portman](/odyssey)
 ### This site is
 
 Built on [Bitters](http://bitters.evbogue.com/), a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
+
+I use [Digital Ocean](https://www.digitalocean.com/?refcode=26d8ed49730d) for my VPS. This is a referral link to them, if you sign up you'll help pay my hosting costs of only $5 a month.
