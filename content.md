@@ -1,5 +1,6 @@
 ### Stream
 
++ May 21 2013 | Join the new Letter: [Shit You Can't Handle](/letters)
 + May 19 2013 | Re-write [about page](/about)
 + May 16 2013 | Announcing [The Odyssey](/odyssey)
 + May 12 2013 | I now have a [haters page](/haters)
