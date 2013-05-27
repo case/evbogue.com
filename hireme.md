@@ -4,7 +4,7 @@
 
 **Where I'll work** I only want to work at your company or startup if you are located in **New York** or **San Francisco**. I live in New York right now. If you want me to interview with you, I need you to pay travel expenses if you are in SF. If you want me to come work for you in San Francisco, you must pay relocation costs. 
 
-**What I do** I deploy Node.js. This means I'm coding in server-side JavaScript. If you are building or want to maintain a Node.js application, I'm your man. I am not interested in working on projects built on other systems or languages. No Wordpress. No Ruby on Rails. No iOS. Please read Deploy Node before you hire me.
+**What I do** I deploy Node.js. This means I'm coding in server-side JavaScript. If you are building or want to maintain a Node.js application, I'm your man. I am not interested in working on projects built on other systems or languages. No Wordpress. No Ruby on Rails. No iOS. 
 
 **Relevant skills** I can code HTML5/CSS3 in my sleep. Front-end UI is no problem. I've been designing websites since I was 12, and have kept up with all relevant changes in this industry. Git. Ubuntu/Debian and Arch Linux.
 
@@ -16,7 +16,7 @@
 
 **Where I won't work** No Google. There are no talented people there. No Apple. I'm sorry for your loss, but no. 
 
-Please read [Deploy Node](http://deploy.evbogue.com) before you ask about my dev skills.
+Please read [Deploy Node](http://deploy.evbogue.com) before you email me.
 
 Still interested? Pitch me.
 
