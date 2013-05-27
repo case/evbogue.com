@@ -14,7 +14,7 @@
 
 **Pay** Six digits or more.
 
-**Where I won't work** No Google. There are no talented people there. No Apple. I'm sorry for your loss, but no. 
+**Where I won't work** No Apple. I'm sorry for your loss, but no. I will only work at Google if you put me on the quantum computer team. No Github. I will not be a part of your flat organizational plan. I want a boss and subordinates. No Coinbase. I don't want people thinking about me when they get phished.
 
 Please read [Deploy Node](http://deploy.evbogue.com) before you email me.
 
