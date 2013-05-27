@@ -38,3 +38,7 @@ exports.odyssey = function(req, res){
 exports.letters = function(req, res){
   res.render('letters', { title: 'Letters | Ev Bogue'});
 };
+
+exports.hireme = function(req, res){
+  res.render('hireme', { title: 'Hire me | Ev Bogue'});
+};
