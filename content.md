@@ -1,5 +1,6 @@
 ### Stream
 
++ May 26 2013 | Created a [hire me](/hireme) page for all of you recruiters out there
 + May 21 2013 | Join the new Letter: [Shit You Can't Handle](/letters)
 + May 19 2013 | Re-write [about page](/about)
 + May 16 2013 | Announcing [The Odyssey](/odyssey)
@@ -22,18 +23,6 @@ Declare indepedence from those who will control your Internet experience, deploy
 Relased in April 2013, this is Ev Bogue's current project.
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
-
-***
-
-### The Odyssey
-
-<a href="/odyssey"><img src="/images/theodyssey.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [The Odyssey](/odyssey) is the collected works of Ev Bogue from 2009 - 2012. If you're one of the people who emails asking for old work, this is for you. You've asked, I deliver.
-
-Follow Ev Bogue's epic/desperate journey as he reaches the height of his fame as a 'professional blogger' to his gradual fall into obscurity as a technical writer and developer, lonely and bitter, living on the fringes of the Internet.
-
-Read the [introduction by Ven Portman](/odyssey)
-
-
 
 ***
 
