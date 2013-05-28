@@ -7,9 +7,16 @@ If you want to read longer stuff, you're invited to buy [Deploy Node](http://dep
 
 Got questions? [ev@evbogue.com](mailto:ev@evbogue.com)
 
-Sign up receive emails from me if you want notifications.
+Sign up for the letter if you want to hear from me more often...
 
-<form action="https://tinyletter.com/evbogue" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/evbogue', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" class="medium" name="email" id="tlemail" placeholder="Letters to your inbox" /><input type="hidden" value="1" name="embed" /><input type="submit" value="Sign up" class="button"/></form>
+<div id="mc_embed_signup">
+<form action="http://evbogue.us7.list-manage.com/subscribe/post?u=88d50a69c5bd38497569d1af1&amp;id=cabc7cbc4c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your email address" required >
+	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+</div>
+
 
 ### Throw out your phone
 
