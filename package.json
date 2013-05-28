@@ -1,12 +1,12 @@
 {
-  "name": "Bitters",
+  "name": "Evbogue",
   "version": "0.0.2",
   "private": false,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.1.1",
+    "express": "*",
     "jade": "*",
     "stylus": "*",
     "marked": "*"
