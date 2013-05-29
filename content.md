@@ -1,3 +1,18 @@
+
+### Deploy Node
+
+<a href="http://deploy.evbogue.com"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [Deploy Node](http://deploy.evbogue.com) will teach you the technical skills you need to deploy. 
+
+Step-by-step, learn how to build your own simple-as-possible realtime website with Node.js, Express, Jade, Stylus.
+
+Declare indepedence from those who will control your Internet experience, deploy. [More info](http://deploy.evbogue.com)
+
+Learn more, earn more. –Ev Bogue
+
+<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
+
+***
+
 ### Stream
 
 + May 26 2013 | Created a [hire me](/hireme) page for all of you recruiters out there
@@ -9,20 +24,6 @@
 + May 11 2013 | Jared Chapman deployed his Node.js website using Bitters! [jaredcc.co](http://jaredcc.co/)
 + May 10 2013 | Did [an Interview](http://www.youtube.com/watch?v=VinWkC4JMMs) with [Gwen Bell](http://gwenbell.com) and [Chad Whitacre](http://whit537.org/) about [Gittip](http://gittip.com) 
 + May 8 2013 | I'm [Ven Portman on Twitter](http://twitter.com/venportman)
-
-***
-
-### Deploy Node
-
-<a href="http://deploy.evbogue.com"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [Deploy Node](http://deploy.evbogue.com) will teach you the technical skills you need to deploy. 
-
-Step-by-step, learn how to build your own simple-as-possible realtime website with Node.js, Express, Jade, Stylus.
-
-Declare indepedence from those who will control your Internet experience, deploy. [Learn more](http://deploy.evbogue.com)
-
-Relased in April 2013, this is Ev Bogue's current project.
-
-<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
 
 ***
 
