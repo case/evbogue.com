@@ -1,34 +1,19 @@
-
-### Deploy Node
-
-<a href="http://deploy.evbogue.com"><img src="/images/deploy.jpg" width="210px" class="profile" style="float: right; margin-left: 1em;"></a> [Deploy Node](http://deploy.evbogue.com) will teach you the technical skills you need to deploy. 
-
-Step-by-step, learn how to build your own simple-as-possible realtime website with Node.js, Express, Jade, Stylus.
-
-Declare indepedence from those who will control your Internet experience, deploy. [More info](http://deploy.evbogue.com)
-
-Learn more, earn more. –Ev Bogue
-
-<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button class="button">Buy Now | $37</button></a>
-
-***
-
 ### Stream
 
-+ May 26 2013 | Created a [hire me](/hireme) page for all of you recruiters out there
-+ May 21 2013 | Join the new Letter: [Shit You Can't Handle](/letters)
-+ May 19 2013 | Re-write [about page](/about)
-+ May 16 2013 | Announcing [The Odyssey](/odyssey)
-+ May 12 2013 | I now have a [haters page](/haters)
-+ May 12 2013 | Nathan Chapman deployed his Node.js website using Bitters too! [nathanjc.com](http://www.nathanjc.com/)
-+ May 11 2013 | Jared Chapman deployed his Node.js website using Bitters! [jaredcc.co](http://jaredcc.co/)
-+ May 10 2013 | Did [an Interview](http://www.youtube.com/watch?v=VinWkC4JMMs) with [Gwen Bell](http://gwenbell.com) and [Chad Whitacre](http://whit537.org/) about [Gittip](http://gittip.com) 
-+ May 8 2013 | I'm [Ven Portman on Twitter](http://twitter.com/venportman)
++ **June 1 2013** | Writing an html5/css3 web design book. [What should go in it?](mailto:ev@evbogue.com)
++ **June 1 2013** | Bed-stuy, code or die
 
-***
+### Letters
 
-### This site is
+In June 2013, I'm writing to a list of <script type="text/javascript" language="JavaScript" src="http://evbogue.us7.list-manage1.com/subscriber-count?b=00&u=1128ab05-7858-4da8-8d71-9f5ad697ad10&id=cabc7cbc4c"></script> current and future clients learning about development on the modern web. Sign up to receive free updates... 
 
-Built on [Bitters](http://bitters.evbogue.com/), a simple-as-possible Git-based website using [Express](http://expressjs.com/), [Jade](http://jade-lang.com/), [Stylus](http://learnboost.github.io/stylus/), and deployed using [Node.js](http://nodejs.org).
+<div id="mc_embed_signup">
+<form action="http://evbogue.us7.list-manage.com/subscribe/post?u=88d50a69c5bd38497569d1af1&amp;id=cabc7cbc4c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your email address" required style="float: left; margin-right: .2em; margin-top: 1px;">
+	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+</div>
 
-I use [Digital Ocean](https://www.digitalocean.com/?refcode=26d8ed49730d) for my VPS. This is a referral link to them, if you sign up you'll help pay my hosting costs of only $5 a month.
+<a href="/node"><img src="/images/deploy.jpg" class="profile" style="width: 45%" /></a>
+<a href="/odyssey"><img src="/images/theodyssey.jpg" class="profile" style="width: 45%" /></a>
