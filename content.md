@@ -1,5 +1,5 @@
 ### Stream
-
++ **June 9 2013** | [Personal Development for Bullshitters](http://www.youtube.com/watch?v=yRTf5rPGul8)
 + **June 1 2013** | Writing an html5/css3 web design book. [What should go in it?](mailto:ev@evbogue.com)
 + **June 1 2013** | Bed-stuy, code or die
 
