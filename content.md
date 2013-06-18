@@ -1,1 +1,1 @@
-<a href="http://eepurl.com/zQCx9"><img src="/images/teaser.jpg" class="profile" style="width: 100%" /></a>
+<a href="http://money.evbogue.com"><img src="http://money.evbogue.com/images/sudomake.jpg" class="profile" style="width: 100%" /></a>
