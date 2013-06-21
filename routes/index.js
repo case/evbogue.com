@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Evbogue.com | Node.js and Technical Writing deployed by Ev Bogue' });
+  res.render('index', { title: 'Evbogue | The Odyssey' });
 };
 
 exports.about = function(req, res){
