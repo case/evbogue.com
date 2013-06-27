@@ -1,6 +1,6 @@
 ### The cat is out of the bag
 
-*"Now learn some JavaScript, and get your ass off centralized social networks."* –Ev Bogue
+Now learn how to [deploy Node](http://deploy.evbogue.com/), and get your ass off centralized social networks.
 
 ### Stream
 
