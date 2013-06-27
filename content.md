@@ -1,13 +1,18 @@
-<a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><img src="http://evbogue.com/images/theodyssey.jpg" class="profile" style="width: 100%" /></a>
+### The cat is out of the bag
 
-<div style="text-align: center;">
+*"Now learn some JavaScript, and get your ass off centralized social networks."* –Ev Bogue
 
-<h1>The Odyssey</h1>
+### Stream
 
-<h4>Ev Bogue 2009 - 2012</h4>
+[Distributed Everything](https://medium.com/surveillance-state/19a5db211e47) by Ven Portman (featured on Medium!)
 
-<h3><del style="color: #999;">$113</del> $97</h3>
+### List
 
-<a href="http://evbogue.fetchapp.com/sell/waleeyol/ppc"><button style="font-size: 1.6em; font-weight: normal;">Buy Now</button></a>
+I have a list of people I email semi-regularly. To get on the list, please send the following info to [ev@evbogue.com](mailto:ev@evbogue.com) 
 
-</div>
+1. Your Name
+2. Your Website
+3. What you're working on right now
+
+I'll email you back to confirm.
+
