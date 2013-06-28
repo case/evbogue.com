@@ -4,6 +4,8 @@
 
 ### Stream
 
+"Go to a Facebook profile, and ponder what we have now. Instead of having adventures into the great unknowns of the web, we instead now spend most of our time on social networks: boring, suburban gated communities, where everybody's "profile" looks exactly the same, and presents exactly the same content, in the same arrangement. Rarely do we create things on these networks; Instead, we consume, and report on our consumption. **The uniformity and blandness rival something out of a Soviet bloc residential apartments corridor.** And now adding to that analogy, we've found out that our government is actually spying on us while we're doing it, in ways the Stasi could only dream of. **The web we have today is a sad, pathetic, consumption-oriented digital iron curtain, and we need to change that.**" –[Kyle Drake](http://neocities.org/blog/making-the-web-fun-again)
+
 [Distributed Everything](https://medium.com/surveillance-state/19a5db211e47) by Ven Portman (featured on Medium!)
 
 ### List
