@@ -4,7 +4,7 @@ I'm drinking an espresso shot. It's half-cold. There's still gunk in my eyes fro
 
 I've been thinking a lot about how I use the Internet. A year ago, I nearly vanished from the public web because I had an intuitive feeling the centralized web was a backdoor to the government. Now, as the dust settles from our collective experiences over the past week, I know this to be true.
 
-So I'm revisiting some of my older habits. I'm using [Tor](https://www.torproject.org/) to visit websites. I've installed [Torbirdy](https://addons.mozilla.org/en-US/thunderbird/addon/torbirdy/) on Thunderbird. I'm back on [Hyperboria](http://projectmeshnet.org)) using [cjdns](https://github.com/cjdelisle/cjdns). If you want to send me [Bitcoins](https://www.weusecoins.com/en/), I'll take them.
+So I'm revisiting some of my older habits. I'm using [Tor](https://www.torproject.org/) to visit websites. I've installed [Torbirdy](https://addons.mozilla.org/en-US/thunderbird/addon/torbirdy/) on Thunderbird. I'm back on [Hyperboria](http://projectmeshnet.org) using [cjdns](https://github.com/cjdelisle/cjdns). If you want to send me [Bitcoins](https://www.weusecoins.com/en/), I'll take them.
 
 I continue to try to find ways to communicate over the web. Forward security is a must. Distributed peer to peer social is a must. These are two seperate problems.
 
