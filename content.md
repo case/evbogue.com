@@ -12,7 +12,7 @@ The kids on Hyperboria have the right idea: if you don't want to be spied on, ev
 
 The way I see it, if you're still on centralized social networks, you're part of the problem. You can't stick your fingers in your ears anymore and scream 'lalallalal'. All of your information is being recorded, forever, in the nice little boxes you type into all day long.
 
-I'm running more and more under the pseudonym of Ven Portman. I'm powering up a hyperboria-only website at venportman.com. Evbogue.com will continue to be my stable public web presence. The madness will happen on Hyperboria.
+I'm running more and more under the pseudonym of Ven Portman. I'm powering up a hyperboria-only website at [venportman.com](http://venportman.com). [Evbogue.com](http://evbogue.com) will continue to be my stable public web presence. The madness will happen on Hyperboria.
 
 The centralized Internet you know is dying. We're scattering to darknets everywhere to look for what we'll build next.
 
