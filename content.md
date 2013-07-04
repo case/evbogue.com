@@ -16,7 +16,9 @@ I'm running more and more under the pseudonym of Ven Portman. I'm powering up a 
 
 The centralized Internet you know is dying. We're scattering to darknets everywhere to look for what we'll build next.
 
-Ev Bogue July 4 2013, undisclosed location
+–Ev Bogue 
+
+*July 4 2013, undisclosed location*
 
 ### List
 
