@@ -1,12 +1,22 @@
-### The cat is out of the bag
+### The web you know is dying
 
-Now learn how to [deploy Node](http://deploy.evbogue.com/), and get your ass off centralized social networks.
+I'm drinking an espresso shot. It's half-cold. There's still gunk in my eyes from sleeping.
 
-### Stream
+I've been thinking a lot about how I use the Internet. A year ago, I nearly vanished from the public web because I had an intuitive feeling the centralized web was a backdoor to the government. Now, as the dust settles from our collective experiences over the past week, I know this to be true.
 
-"Go to a Facebook profile, and ponder what we have now. Instead of having adventures into the great unknowns of the web, we instead now spend most of our time on social networks: boring, suburban gated communities, where everybody's "profile" looks exactly the same, and presents exactly the same content, in the same arrangement. Rarely do we create things on these networks; Instead, we consume, and report on our consumption. **The uniformity and blandness rival something out of a Soviet bloc residential apartments corridor.** And now adding to that analogy, we've found out that our government is actually spying on us while we're doing it, in ways the Stasi could only dream of. **The web we have today is a sad, pathetic, consumption-oriented digital iron curtain, and we need to change that.**" –[Kyle Drake](http://neocities.org/blog/making-the-web-fun-again)
+So I'm revisiting some of my older habits. I'm using [Tor](https://www.torproject.org/) to visit websites. I've installed [Torbirdy](https://addons.mozilla.org/en-US/thunderbird/addon/torbirdy/) on Thunderbird. I'm back on [Hyperboria](http://projectmeshnet.org)) using [cjdns](https://github.com/cjdelisle/cjdns). If you want to send me [Bitcoins](https://www.weusecoins.com/en/), I'll take them.
 
-[Distributed Everything](https://medium.com/surveillance-state/19a5db211e47) by Ven Portman (featured on Medium!)
+I continue to try and find a good way to communicate over the web. Forward security is a must. Distributed peer to peer social is a must. These are two seperate problems.
+
+The kids on Hyperboria have the right idea: if you don't want to be spied on, evolve beyond reach. I'm doing just that.
+
+The way I see it, if you're still on centralized social networks, you're part of the problem. You can't stick your fingers in your ears anymore and scream 'lalallalal'. All of your information is being recorded, forever, in the nice little boxes you type into all day long.
+
+I'm running more and more under the pseudonym of Ven Portman. I'm powering up a hyperboria-only website at venportman.com. Evbogue.com will continue to be my stable public web presence. The madness will happen on Hyperboria.
+
+The centralized Internet you know is dying. We're scattering to darknets everywhere to look for what we'll build next.
+
+Ev Bogue July 4 2013, undisclosed location
 
 ### List
 
