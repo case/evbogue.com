@@ -24,7 +24,7 @@ undisclosed location*
 
 ### List
 
-I have a list of people I email semi-regularly. To get on the list, please send the following info to [ev@evbogue.com](mailto:ev@evbogue.com) 
+I have a list of people I email. To get on the list, please send the following info to [ev@evbogue.com](mailto:ev@evbogue.com) 
 
 1. Your Name
 2. Your Website
