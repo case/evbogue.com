@@ -30,16 +30,6 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index);
-app.get('/about', routes.about);
-app.get('/writing', routes.writing);
-app.get('/node', routes.node);
-app.get('/nodejs', routes.node);
-app.get('/arch', routes.arch);
-app.get('/gittip', routes.gittip);
-app.get('/haters', routes.haters);
-app.get('/odyssey', routes.odyssey);
-app.get('/letters', routes.letters);
-app.get('/hireme', routes.hireme);
 app.get('*', routes.index);
 
 
