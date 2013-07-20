@@ -30,8 +30,8 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index);
+app.get('/ahead', routes.ahead);
 app.get('*', routes.index);
-
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Evbogue.com is listening on port ' + app.get('port'));
