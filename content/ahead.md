@@ -29,7 +29,7 @@ Systemd is the other way I'm getting ahead of you this month. For those who don'
 
 Systemd is process #1. I'm most interested in it because with Systemd I can make sure all of the processes on my computer or my vps stay up.
 
-For example. On the 4th of July, I was featured not once, but twice on the front page of Hacker News for "Distributed Everything". If you haven't been on the front page of Hacker News, then you haven't experienced the Hacker News Effect. Which is the flood of people who hit your site all at once.
+For example. On the 4th of July, I was featured not once, but twice on the front page of Hacker News for "[Distributed Everything](https://medium.com/surveillance-state/19a5db211e47)". If you haven't been on the front page of Hacker News, then you haven't experienced the Hacker News Effect. Which is the flood of people who hit your site all at once.
 
 It turns out, when my site was getting hit by thousands of people, the http server I'm running hit up against something that's called ulimit. It limits how many times a program is allowed to touch the disk. The http server crashed and I was left without a site during a crucial moment.
 
