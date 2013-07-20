@@ -1,3 +1,7 @@
+### Latest
+
+[Getting Ahead with Arch Linux and systemd](/ahead)
+
 ### About Ev Bogue
 
 Ev Bogue (born Everett Bogue Chicago March 4 2013) is pseudononymous Ven Portman (created San Francisco Feb 11 2012) is a technical writer and web developer. Right now, for privacy, he lives at an undisclosed location. 

@@ -42,8 +42,8 @@ What else have I been up to? Drinking beers. Eating bratwurst. Hanging out on IR
 I've been having some trouble with my SMTP server. It's unclear if it's the router I'm using, being in the woods, or if the United States government doesn't want the population to communicate over email anymore. 
 Regardless, if you've needed to get in touch about something specific, the best way might be to catch me on IRC. On occasion I hang out in #node.js and #gittip as well as #bitters on Freenode.
 
-[Arch Linux](https://www.archlinux.org/)
-[Systemd](http://freedesktop.org/wiki/Software/systemd/)
++ [Arch Linux](https://www.archlinux.org/)
++ [Systemd](http://freedesktop.org/wiki/Software/systemd/)
 
 -Ev<br />
 *July 19 2013<br />
