@@ -11,7 +11,7 @@ I started July with two goals.
 1. Get Arch Linux installed on my machine.
 2. Learn systemd
 
-I have accomplished the first goal. After an epic four days of wrasting with my Macbook Pro, I finally got Arch Linux to take.
+I have accomplished the first goal. After an epic four days of wrastling with my Macbook Pro, I finally got Arch Linux to take.
 
 The benefit of Arch Linux is clear to anyone who's spent five minutes reading about it. When you type
 
