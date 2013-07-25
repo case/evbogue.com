@@ -1,8 +1,8 @@
 ### Latest
 
-[The next 5 years in technology](/5years)
-[About Ev Bogue](/about)
-[Get ahead with Arch Linux and systemd](/ahead)
++ [The next 5 years in technology](/fiveyears)
++ [About Ev Bogue](/about)
++ [Get ahead with Arch Linux and systemd](/ahead)
 
 ### List
 
