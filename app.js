@@ -31,6 +31,8 @@ if ('development' == app.get('env')) {
 
 app.get('/', routes.index);
 app.get('/ahead', routes.ahead);
+app.get('/about', routes.about);
+app.get('/fiveyears', routes.fiveyears);
 app.get('*', routes.index);
 
 http.createServer(app).listen(app.get('port'), function(){
