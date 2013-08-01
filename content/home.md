@@ -1,5 +1,6 @@
 ### Latest
 
++ [Deploy with Digital Ocean](/digitalocean)
 + [The next 5 years in technology](/fiveyears)
 + [About Ev Bogue](/about)
 + [Get ahead with Arch Linux and systemd](/ahead)
