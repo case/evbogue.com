@@ -14,3 +14,7 @@ exports.about = function(req, res){
 exports.fiveyears = function(req, res){
   res.render('fiveyears', { title: 'Evbogue.com | The next 5 years in technology' });
 };
+
+exports.digitalocean = function(req, res){
+  res.render('digitalocean', { title: 'Evbogue.com | Deploy with Digital Ocean' });
+};
