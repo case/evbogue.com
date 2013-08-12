@@ -1,9 +1,24 @@
-### Latest
+### Evbogue.com
+
+Through some miracle of digital engineering, or just plain fate, you've arrived at Ev Bogue's clearnet website. 
+
+Perhaps you're here because you want to learn to [Deploy Node](http://deploy.evbogue.com)? Maybe you need to learn to [Design Your Website](http://design.evbogue.com) first?
+
+Regardless, it's good to meet your digital self. 
+
+If you have any questions at all, find me at #bitters on freenode or #hyperboria on [hypeirc](http://hypeirc.net)
+
+***
+
+### Latest technical writing
+
 
 + [Deploy with Digital Ocean](/digitalocean)
-+ [The next 5 years in technology](/fiveyears)
-+ [About Ev Bogue](/about)
-+ [Get ahead with Arch Linux and systemd](/ahead)
+
+
+Want something I've deleted?<br /> Clone the git repository: [https://github.com/evbogue/evbogue.com](https://github.com/evbogue/evbogue.com)
+
+***
 
 ### List
 
@@ -15,6 +30,4 @@ I have a list of people I email. To get on the list, please send the following i
 
 I'll email you back to confirm.
 
-### About this site
 
-Evbogue.com is hosted on a [Digital Ocean](https://www.digitalocean.com/?refcode=26d8ed49730d) (rewards link) VPS using [Bitters](http://bitters.evbogue.com) and deployed using [Node.js](http://nodejs.org).

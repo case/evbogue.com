@@ -15,13 +15,12 @@ html
     script(type='text/javascript') hljs.initHighlightingOnLoad();
     .navbar.navbar-top
       .container  
-        .ten.columns
+        .twelve.columns.offset-by-two
           ul
             li 
-              a(href='/') Ev Bogue
+              a(href='/') Evbogue.com
                     
     .container
-      .five.columns.sidebar
-        include sidebar.jade
-      .ten.columns.offset-by-one
+      .twelve.columns.offset-by-two
         block content
+        include footer.md
