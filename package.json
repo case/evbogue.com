@@ -1,6 +1,6 @@
 {
-  "name": "Evbogue",
-  "version": "0.0.2",
+  "name": "evboguecom",
+  "version": "0.28.8",
   "private": false,
   "scripts": {
     "start": "node app.js"
@@ -8,6 +8,7 @@
   "dependencies": {
     "express": "*",
     "jade": "*",
+    "embittered": "*",
     "stylus": "*",
     "marked": "*"
   }
