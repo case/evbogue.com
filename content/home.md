@@ -16,7 +16,7 @@ If you have any questions at all, find me at #bitters on freenode or #hyperboria
 + [Deploy with Digital Ocean](/digitalocean)
 
 
-Want something I've deleted?<br /> Clone the git repository: [https://github.com/evbogue/evbogue.com](https://github.com/evbogue/evbogue.com)
+Want something I've deleted?<br /> Clone the git repository: [https://github.com/evbogue/evbogue.com]
 
 ***
 
