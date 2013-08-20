@@ -10,6 +10,10 @@ If you have any questions at all, find me at #bitters on freenode or #hyperboria
 
 ***
 
+### Worth reading
+
++ [How to Keep the NSA Out of Your Computer](http://www.motherjones.com/politics/2013/08/mesh-internet-privacy-nsa-isp) by Clive Thompson via [darknetplan](http://www.reddit.com/r/darknetplan)
+
 ### Latest technical writing
 
 + [Deploy Arch](http://arch.evbogue.com/)
