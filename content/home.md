@@ -24,12 +24,10 @@ Want something I've deleted?<br /> Clone the git repository: [https://github.com
 
 ### List
 
-I have a list of people I email. To get on the list, please send the following info to [ev@evbogue.com](mailto:ev@evbogue.com) 
+When you sign up, I will send you a link when I write or release something you should care about.
 
-1. Your Name
-2. Your Website
-3. What you're working on right now
-
-I'll email you back to confirm.
+<form action="http://evbogue.us7.list-manage.com/subscribe/post?u=1a9fbca8ce860eb1cf0d5bb5d&amp;id=019e3bfd87" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<input type="email" value="" name="EMAIL" class="required email" placeholder="you@youmail.com" style="float: left; margin-top: 2px; margin-right: 2px;" id="mce-EMAIL"><input type="submit" value="Sign up" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
 
 
