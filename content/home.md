@@ -14,6 +14,7 @@ If you have any questions at all, find me at #bitters on freenode or #hyperboria
 
 ### Latest technical writing
 
++ [My Summer Workcation](/workcation)
 + [Deploy Arch](http://arch.evbogue.com/)
 + [Deploy with Digital Ocean](/digitalocean)
 

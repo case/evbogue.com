@@ -2,6 +2,8 @@
 
 Aug 23 2013, undisclosed location
 
+<img src="/images/acer.jpg" style="width: 100%;" class="profile" />
+
 I was living and working in Brooklyn when the Snowden news broke. 
 
 This news hasn't been covered too often in mainstream news, but you all know how to get your news (that is if you haven't been forbidden by your employer/deployer from reading The Guardian), you have the details. 
