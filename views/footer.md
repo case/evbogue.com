@@ -1,6 +1,6 @@
 ***
 
-<img src="/images/evbogue.jpg" class="profile" style="float: right; margin-left: 1em; width: 250px;" />
+<img src="/images/evbogue.jpg" class="profile" style="float: left; margin-right: 1em; width: 175px;" />
 
 
 Ev Bogue (pseudononymous Ven Portman) is the author of [Deploy Node](http://deploy.evbogue.com). His [Hyperboria](http://hyperboria.net)-only website is [venportman.com](http://venportman.com). 
