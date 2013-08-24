@@ -6,3 +6,7 @@ exports.index = function(req, res){
 exports.digitalocean = function(req, res){
   res.render('digitalocean', { title: 'Evbogue.com | Deploy with Digital Ocean' });
 };
+
+exports.workcation = function(req, res){
+  res.render('workcation', { title: 'Evbogue.com | My summer workcation'});
+};
