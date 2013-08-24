@@ -7,5 +7,5 @@ Ev Bogue (pseudononymous Ven Portman) is the author of [Deploy Node](http://depl
 
 Evbogue.com is built on [Bitters](http://bitters.evbogue.com) and deployed using [Node.js](http://nodejs.org) on [Digital Ocean](https://www.digitalocean.com/?refcode=26d8ed49730d) (rewards link).
 
-Clearnet email: [ev@evbogue.com](mailto:ev@evbogue.com)<br />
-[Cjdns](http://cjdns.info) email: [ev@hyperboria.ca](mailto:ev@hyperboria.ca)
+Email over clearnet | [ev@evbogue.com](mailto:ev@evbogue.com)<br />
+Email over [cjdns](http://cjdns.info) | [ev@hyperboria.ca](mailto:ev@hyperboria.ca)
