@@ -10,3 +10,7 @@ exports.digitalocean = function(req, res){
 exports.workcation = function(req, res){
   res.render('workcation', { title: 'Evbogue.com | My summer workcation'});
 };
+
+exports.stack = function(req, res){
+  res.render('stack', { title: 'Evbogue.com | What\'s in your stack?' });
+};
