@@ -2,7 +2,7 @@
 
 Through some miracle of digital engineering, or just plain fate, you've arrived at Ev Bogue's clearnet website. 
 
-Right now I'm working on [Deploy Node v2](http://deploy.evbogue.com), [Design Your Website](http://design.evbogue.com/) and [Bitters](http://bitters.evbogue.com). 
+Right now I'm working on [Deploy Node](http://deploy.evbogue.com), [Design Your Website](http://design.evbogue.com/) and [Bitters](http://bitters.evbogue.com). 
 
 If you have any questions at all, find me at #bitters on freenode or #hyperboria on [hypeirc](http://hypeirc.net)
 
@@ -10,6 +10,7 @@ If you have any questions at all, find me at #bitters on freenode or #hyperboria
 
 ### Latest technical writing
 
++ [What's in your stack?](/stack)
 + [My Summer Workcation](/workcation)
 + [Deploy Arch](http://arch.evbogue.com/)
 + [Deploy with Digital Ocean](/digitalocean)
