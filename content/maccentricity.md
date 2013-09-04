@@ -2,6 +2,10 @@
 
 One of my favorite movies from the past few years has been Tron: Legacy. I saw it by myself at Yerba Buena in San Francisco the week it came out. I saw it again in the basement in North Carolina when I was just beginning to start playing around with Linux and programming with Node.js. 
 
+<a href="http://jtnimoy.net/workviewer.php?q=178"><img src="http://jtnimoy.net/178/TRON_GFX_BR_08.JPG" class="profile" style="width: 100%" /></a>
+
+[Tron Legacy Interface Design](http://jtnimoy.net/workviewer.php?q=178)
+
 The movie took on a new meaning for me once I switched to Linux. It's taken on even more importance since I installed Enlightenment and Terminology. 
 
 Perhaps I listen to the Tron Soundtrack (written by Daft Punk) too much, or perhaps it's super-inspiring to use a Tron-inspirated terminal. 
