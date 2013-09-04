@@ -1,6 +1,6 @@
 ***
 
-<img src="/images/evbogue.jpg" class="profile" style="float: left; margin-right: 1em; width: 175px;" />
+<img src="/images/evbogue.jpg" class="profile" style="float: left; margin-right: 1em; width: 200px;" />
 
 Ev Bogue is an Oakland-based technical writer and Internet developer. Ev's the author of [Deploy Node](http://deploy.evbogue.com) and [Design Your Website](http://design.evbogue.com). Ev's [Hyperboria](http://hyperboria.net)-only website is [Venportman.com](http://venportman.com).
 
