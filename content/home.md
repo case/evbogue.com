@@ -10,6 +10,7 @@ If you have any questions at all, find me at #bitters on freenode or #hyperboria
 
 ### Latest technical writing
 
++ [Maccentricity](/maccentricity)
 + [What's in your stack?](/stack)
 + [My Summer Workcation](/workcation)
 + [Deploy Arch](http://arch.evbogue.com/)
