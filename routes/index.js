@@ -14,3 +14,7 @@ exports.workcation = function(req, res){
 exports.stack = function(req, res){
   res.render('stack', { title: 'Evbogue.com | What\'s in your stack?' });
 };
+
+exports.maccentricity = function(req, res){
+  res.render('maccentricity', { title: 'Evbogue.com | Maccentricity' });
+};

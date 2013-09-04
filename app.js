@@ -28,6 +28,7 @@ app.get('/', routes.index);
 app.get('/digitalocean', routes.digitalocean);
 app.get('/workcation', routes.workcation);
 app.get('/stack', routes.stack);
+app.get('/maccentricity', routes.maccentricity);
 app.get('*', routes.index);
 
 http.createServer(app).listen(app.get('port'), function(){
