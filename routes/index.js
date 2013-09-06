@@ -18,3 +18,7 @@ exports.stack = function(req, res){
 exports.maccentricity = function(req, res){
   res.render('maccentricity', { title: 'Evbogue.com | Maccentricity' });
 };
+
+exports.systemd = function(req, res){
+  res.render('systemd', { title: 'Evbogue.com | Keep shit up with systemd' });
+};

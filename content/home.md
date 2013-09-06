@@ -10,6 +10,7 @@ If you have any questions at all, find me at #bitters on freenode or #hyperboria
 
 ### Latest technical writing
 
++ [Keep shit up with systemd](/systemd)
 + [Maccentricity](/maccentricity)
 + [What's in your stack?](/stack)
 + [My Summer Workcation](/workcation)
