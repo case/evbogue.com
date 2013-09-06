@@ -20,7 +20,7 @@ I, of course, use [Arch Linux](http://arch.evbogue.com) with systemd.
 
 #### Why use systemd?
 
-Fire up an Ubuntu vps right now. Now deploy anywhere between five to 100 Node.js applications. Now type this into your terminal
+Fire up an Linux vps right now. Now deploy anywhere between five to 100 Node.js applications. Now type this into your terminal
 
 	reboot
 
