@@ -10,7 +10,7 @@ The movie took on a new meaning for me once I switched to Linux. It's taken on e
 
 Perhaps I listen to the Tron Soundtrack (written by Daft Punk) too much, or perhaps it's super-inspiring to use a Tron-inspirated terminal. 
 
-In the opening scene of Tron, the lead character sneaks into the server room of a propritary operating system company ENCOM. It just so happens that the lead character is the son of the person who started ENCOM, and thus owns a majority stock in the company. So he's not really doing anything illegal when he downloads this operating system and releases to the world to use for free. 
+In the opening scene of Tron, the lead character sneaks into the server room of a proprietary operating system company ENCOM. It just so happens that the lead character is the son of the person who started ENCOM, and thus owns a majority stock in the company. So he's not really doing anything illegal when he downloads this operating system and releases to the world to use for free. 
 
 I want to write about something I've noticed since being back in The Bay. It's Maccentricity. Everywhere I go, I see Macintoshes and the people who use them. 
 
